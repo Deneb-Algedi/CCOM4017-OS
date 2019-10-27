@@ -1,6 +1,5 @@
-# Assignment 02: Threads and Scheduling
-> CCOM4017 - Operating Systems
-> Prof. Jose Ortiz-Ubarri
+# Threads and Scheduling
+> Producer and Consumer
 
 ## Table of contents
 - [General info](#general-info)
